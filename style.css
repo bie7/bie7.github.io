@@ -1,0 +1,56 @@
+.slider h3,
+.slider h5,
+.content h4,
+.content h5,
+.parallax h4,
+.about h4,
+.about h5,
+footer h5,
+section.video h5,
+section.video h6,
+.card-img {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, .5)
+}
+
+.logo-img {
+    padding: 10px 0px;
+    width: 40px;
+}
+
+.about {
+    min-height: 280px;
+}
+
+.parallax-container {
+    height: 30%;
+}
+
+.parallax img {
+    filter: grayscale(.6);
+    opacity: 0.5 !important;
+}
+
+.about img,
+.parallax img.paral {
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 2px rgba(0, 0, 0, .7));
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.page-about {
+    min-height: 600px;
+}
+
+ul.collection {
+    border-radius: 10px;
+}
+
+.video {
+    padding: 50px 0px;
+    min-height: 600px;
+}
+
+.responsive-img {
+    width: 90px;
+    border-radius: 15px;
+}
