@@ -59,6 +59,7 @@ ul.collection {
     min-height: 450px;
 }
 
-.not {
+.not,
+.pages {
     padding-top: 50px;
 }
