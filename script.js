@@ -10,7 +10,7 @@
       .then(response => {
         // tampilkan callback pada saat pengiriman data form sukses
         M.toast({
-          html: 'Pesan Anda Telah Terkirim'
+          html: 'Pesan Anda Telah Terkirim !'
         });
         // reset form setelah berhasil terkirim
         form.reset()
