@@ -54,3 +54,11 @@ ul.collection {
     width: 90px;
     border-radius: 15px;
 }
+
+.notfound {
+    min-height: 500px;
+}
+
+.not {
+    padding-top: 50px;
+}
