@@ -38,7 +38,7 @@ section.video h6,
 }
 
 .page-about {
-    min-height: 600px;
+    min-height: 800px;
 }
 
 ul.collection {
@@ -51,7 +51,7 @@ ul.collection {
 }
 
 .responsive-img {
-    width: 90px;
+    width: 150px;
     border-radius: 15px;
 }
 
@@ -62,4 +62,16 @@ ul.collection {
 .not,
 .pages {
     padding-top: 50px;
+}
+
+.hidden {
+    display: none;
+}
+
+.load {
+    padding: 20px 0px;
+}
+
+.progress {
+    width: 30%;
 }

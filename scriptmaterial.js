@@ -4,6 +4,9 @@
      M.Sidenav.init(elems);
  });
 
+ // colapsible
+ let elems = document.querySelectorAll('.collapsible');
+ M.Collapsible.init(elems);
 
  // slider
  let slider = document.querySelectorAll('.slider');
